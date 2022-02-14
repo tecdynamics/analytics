@@ -1,0 +1,9 @@
+{
+    "name": "Analytics",
+    "namespace": "Tec\\Analytics\\",
+    "provider": "Tec\\Analytics\\Providers\\AnalyticsServiceProvider",
+    "author": "Tecdynamics LTD",
+    "url": "https://tecdynamics.co.uk",
+    "version": "5.8",
+    "description": "Tracking data from Google Analytics"
+}
